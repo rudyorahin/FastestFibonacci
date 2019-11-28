@@ -20,8 +20,6 @@ public class FastestFibonacci {
                 fibMethodCall += x;
                 System.out.println("The " + x + "-th Fibonacci number is " + fib(BigInteger.ONE, BigInteger.ZERO, x) + " and was calculated in " + (System.currentTimeMillis() - t0) + " ms");
                 System.out.println("The fibonacci() method got called " + (fibMethodCall + 1) + " times");
-
-
             }
         }
 }
