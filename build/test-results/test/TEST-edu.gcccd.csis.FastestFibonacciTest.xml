@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.gcccd.csis.FastestFibonacciTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-27T23:39:49" hostname="Rudys-MacBook-Pro.local" time="178.763">
+  <properties/>
+  <testcase name="main" classname="edu.gcccd.csis.FastestFibonacciTest" time="178.763"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
